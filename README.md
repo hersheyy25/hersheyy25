@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Building things, learning things." width="100%">
+  <img src="assets/building-things-learning-things-banner.svg" alt="Building things, learning things." width="100%">
 </p>
 
 <!--
