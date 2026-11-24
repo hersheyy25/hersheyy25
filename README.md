@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Building things, learning things." width="100%">
+</p>
 
 <!--
 **hersheyy25/hersheyy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
